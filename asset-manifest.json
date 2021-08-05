@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/puckfried/shopping_deploy/static/css/main.106baaae.chunk.css",
+    "main.js": "/puckfried/shopping_deploy/static/js/main.f9970c3a.chunk.js",
+    "main.js.map": "/puckfried/shopping_deploy/static/js/main.f9970c3a.chunk.js.map",
+    "runtime-main.js": "/puckfried/shopping_deploy/static/js/runtime-main.f34fbc09.js",
+    "runtime-main.js.map": "/puckfried/shopping_deploy/static/js/runtime-main.f34fbc09.js.map",
+    "static/js/2.af278a01.chunk.js": "/puckfried/shopping_deploy/static/js/2.af278a01.chunk.js",
+    "static/js/2.af278a01.chunk.js.map": "/puckfried/shopping_deploy/static/js/2.af278a01.chunk.js.map",
+    "index.html": "/puckfried/shopping_deploy/index.html",
+    "static/css/main.106baaae.chunk.css.map": "/puckfried/shopping_deploy/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.af278a01.chunk.js.LICENSE.txt": "/puckfried/shopping_deploy/static/js/2.af278a01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f34fbc09.js",
+    "static/js/2.af278a01.chunk.js",
+    "static/css/main.106baaae.chunk.css",
+    "static/js/main.f9970c3a.chunk.js"
+  ]
+}
